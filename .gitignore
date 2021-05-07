@@ -1,7 +1,7 @@
 /Peliculas
 /raw
-/dataset.npy
+/hockey_data_for_hockey_model.npy
 /CNN-BiLSTM.h5
 /Hockey_fights
-/dataset_movie.npy
-/dataset_raw.npy
+/movie_data_for_hockey_model.npy
+/raw_data_for_hockey_model.npy
